@@ -1,0 +1,5 @@
+/generated_images/
+/result/
+/__pycache__/
+/.idea/
+/model/Discriminator.pt
