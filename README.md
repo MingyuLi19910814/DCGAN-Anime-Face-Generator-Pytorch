@@ -14,4 +14,4 @@ python train.py
 python inference.py --num_images 128
 ```
 # demo
-<a href="https://github.com/MingyuLi19910814/DCGAN-Anime-Face-Generator-Pytorch/tree/master/demo.gif"><img src="https://github.com/MingyuLi19910814/DCGAN-Anime-Face-Generator-Pytorch/tree/master/demo.gif" title="demo"/></a>
+![github](https://github.com/MingyuLi19910814/DCGAN-Anime-Face-Generator-Pytorch/tree/master/demo.gif)
