@@ -73,5 +73,3 @@ def generate_gif(combined_image_folder, duration=0.5, sample=3):
             if idx % sample == 0:
                 images.append(imageio.imread(filename))
         imageio.mimsave(os.path.join(combined_image_folder, 'demo.gif'), images, duration=duration)
-
-generate_gif('generated_images/train/Origin-DCGAN/combined_images', 0.5, 8)
