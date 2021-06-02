@@ -14,6 +14,5 @@ The generated model and images of every epoch will be saved in folder "generated
 ```
 python inference.py --num_images 128
 ```
-test vs code
 # Generated Samples from Epoch 1 to 150
 <img src="demo.gif?raw=true" width="1200px">
