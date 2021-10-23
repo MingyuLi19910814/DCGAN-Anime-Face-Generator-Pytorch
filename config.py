@@ -3,7 +3,7 @@ from easydict import EasyDict as edict
 
 global_cfg = edict()
 
-global_cfg.data_path = '../train-images/'
+global_cfg.data_path = './train-images'
 global_cfg.image_size = 64
 global_cfg.init_lr = 0.002
 global_cfg.lr_decay_epoch = 10
